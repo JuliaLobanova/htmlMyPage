@@ -8,3 +8,13 @@ body {
     color: midnightblue;
     font-family: Arial;
 }
+
+h1 {
+    background: blanchedalmond;
+    color: red;
+    border: 20px solid blue;
+    padding: 50px;
+    margin: 30px;
+    text-align: center;
+}
+
