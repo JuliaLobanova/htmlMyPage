@@ -2,3 +2,9 @@
 :root {
     background: #64c2ed;
 }
+
+body {
+    background: lightgoldenrodyellow;
+    color: midnightblue;
+    font-family: Arial;
+}
