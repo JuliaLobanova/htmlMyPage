@@ -45,9 +45,18 @@ p {
 .super-title {
     color: midnightblue;
     font-size: 25px;
+    text-align: center;
 }
 
 li {
     font-size: 23px;
     margin: 5px;
+    padding-left: 20px;
+    border: 4px;
+}
+
+img {
+    padding: 7px;
+    border: 4px black;
+    margin: 15px;
 }
