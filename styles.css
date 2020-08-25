@@ -42,11 +42,8 @@ p {
     font-size: 20px;
 }
 
-strong {
-    color: midnightblue;
-}
-
 .super-title {
+    color: midnightblue;
     font-size: 25px;
 }
 
