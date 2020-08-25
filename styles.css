@@ -3,26 +3,54 @@
     background: #64c2ed;
 }
 
+a {
+    color: darkblue;
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: ButtonFace;
+}
+
 body {
-    background: lightgoldenrodyellow;
+    background: azure;
     color: midnightblue;
     font-family: Arial;
 }
 
 h1 {
-    background: blanchedalmond;
-    color: red;
-    border: 20px solid blue;
-    padding: 50px;
-    margin: 30px;
+    background: azure;
+    color: #ff6600;
+    font-size: 40px;
+    /*border: 20px solid blue;*/
+    padding: 20px;
+    margin: 10px;
     text-align: center;
 }
 
 h2 {
     background: #87dffa;
     color: darkblue;
+    text-align: center;
 }
 
-div {
-    background: yellow;
+span{
+    background: var(--background);
+}
+
+p {
+    color: midnightblue;
+    margin: 20px;
+    font-size: 20px;
+}
+
+strong {
+    color: midnightblue;
+}
+
+.super-title {
+    font-size: 25px;
+}
+
+li {
+    font-size: 23px;
+    margin: 5px;
 }
