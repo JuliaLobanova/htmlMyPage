@@ -32,20 +32,21 @@ h2 {
     text-align: center;
 }
 
-span{
-    background: var(--background);
-}
-
 p {
     color: midnightblue;
     margin: 20px;
     font-size: 20px;
 }
-
-.super-title {
+.title {
     color: midnightblue;
     font-size: 25px;
-    text-align: center;
+}
+
+.super {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 250px;
+    padding-left: 150px;
 }
 
 li {
@@ -57,6 +58,6 @@ li {
 
 img {
     padding: 7px;
-    border: 4px black;
-    margin: 15px;
+    border: 4px;
+    margin: 10px;
 }
