@@ -55,16 +55,21 @@ li {
     padding-left: 20px;
     border: 4px;
 }
+.experience {
+    font-size: 20px;
+}
 
 img {
     padding: 7px;
     border: 4px;
     margin: 10px;
+    vertical-align: top;
 }
 
 tr {
     color: midnightblue;
     font-size: 25px;
+    vertical-align: top;
 }
 
 td {
@@ -76,4 +81,5 @@ td {
 
 .td-right {
     text-align: right;
+
 }
